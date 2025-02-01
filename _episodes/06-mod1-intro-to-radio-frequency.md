@@ -22,7 +22,8 @@ Radio Frequency (RF) refers to the portion of the **electromagnetic spectrum** u
 - **Radar and military applications**  
 
 RF enables wireless communication by transmitting information via electromagnetic waves, making it an essential component of **modern cybersecurity**. However, it also introduces vulnerabilities that attackers can exploit.
----
+
+
 #### **2. Wireless Vulnerabilities in RF Communication**
 Wireless networks are inherently **less secure than wired networks** because signals propagate through the air, making them easier to intercept, manipulate, or jam. Below are common RF and wireless vulnerabilities:
 
@@ -61,13 +62,14 @@ Wireless networks are inherently **less secure than wired networks** because sig
   - **Bluejacking**: Sending unsolicited messages.  
   - **Bluesnarfing**: Unauthorized data access.  
   - **Bluetooth MITM Attacks**: Intercepting device communications.  
-- **Mitigation**: Disable Bluetooth when not in use, use secure pairing (Bluetooth 5+), and avoid untrusted connections.
+  - **Mitigation**: Disable Bluetooth when not in use, use secure pairing (Bluetooth 5+), and avoid untrusted connections.
 
 ### **g. Electromagnetic Side-Channel Attacks**
 - Attackers exploit **electromagnetic emissions** from devices to extract sensitive data.  
 - **Example**: TEMPEST attacks can recover keystrokes or screen data from leaked RF signals.  
 - **Mitigation**: Electromagnetic shielding, Faraday cages, and secure hardware design.
----
+
+
 #### **3. Conclusion**
 Wireless and RF technologies are essential for communication but **introduce vulnerabilities** that attackers can exploit for espionage, theft, and disruption. To enhance security, organizations should adopt **encryption, authentication, shielding, and advanced threat detection** methods.
 

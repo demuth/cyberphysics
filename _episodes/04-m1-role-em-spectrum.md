@@ -12,8 +12,6 @@ keypoints:
 
 The **electromagnetic spectrum** plays a critical role in both **secure** and **insecure communications** because it is the medium through which wireless signals are transmitted, making it a key factor in cybersecurity. Below is an overview of its role:
 
----
-
 ## **Role of the Electromagnetic Spectrum in Secure and Insecure Communications**
 
 ### **1. Secure Communications**
@@ -37,8 +35,6 @@ Secure communication relies on the electromagnetic spectrum for transmitting dat
 - Faraday cages block external electromagnetic signals, preventing eavesdropping.
 - Used in secure government facilities, financial institutions, and critical infrastructure.
 
----
-
 ### **2. Insecure Communications**
 The electromagnetic spectrum also introduces vulnerabilities, leading to various forms of cyber threats:
 
@@ -59,8 +55,6 @@ The electromagnetic spectrum also introduces vulnerabilities, leading to various
 #### **d. Cyber-Physical System (CPS) Exploits**
 - Industrial control systems (SCADA) use wireless signals, making them vulnerable to electromagnetic attacks.
 - Electromagnetic interference (EMI) can cause unintended system malfunctions.
-
----
 
 ## **Conclusion**
 The electromagnetic spectrum is **indispensable** for modern communication but also presents **significant cybersecurity challenges**. Ensuring secure communication requires **encryption, shielding, frequency management, and interference mitigation**, while adversaries continuously seek to exploit vulnerabilities in wireless transmissions.

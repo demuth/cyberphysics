@@ -10,7 +10,7 @@ keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
 
-### Module 1: Introduction to Physics Cybersecurity ###
+### Module 1: Introduction to Physics Cybersecurity Overview ###
 
 Cybersecurity threats involving physics often exploit physical principles to compromise systems. Here are some key threats:
 
