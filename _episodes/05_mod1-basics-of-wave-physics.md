@@ -1,5 +1,5 @@
 ---
-title: "Course Overview"
+title: "Basics of Wave Physics"
 teaching: 0
 exercises: 0
 questions:
