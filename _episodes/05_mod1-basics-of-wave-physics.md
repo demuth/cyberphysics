@@ -10,6 +10,9 @@ keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
 
+
+<!--- how to render latex in markdown? https://stackoverflow.com/questions/10987992/using-mathjax-with-jekyll --->
+
 ### **Basics of Wave Physics: Frequency, Wavelength, and Energy**  
 
 Electromagnetic waves are fundamental to wireless communication and cybersecurity. Understanding their properties—**frequency, wavelength, and energy**—is crucial for designing secure systems and mitigating threats.  
