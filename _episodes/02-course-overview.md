@@ -1,5 +1,5 @@
 ---
-title: "Course Outline"
+title: "Course Overview"
 teaching: 0
 exercises: 0
 questions:
