@@ -1,6 +1,6 @@
 ---
 title: "Quantum Cryptography and the Physics of Secure Communication"
-teaching: 0
+teaching: 150
 exercises: 0
 questions:
 - "Key question (FIXME)"
