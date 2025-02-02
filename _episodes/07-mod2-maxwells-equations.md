@@ -1,6 +1,6 @@
 ---
 title: "Maxwell's Equations and their cybersecurity relevance"
-teaching: 0
+teaching: 200
 exercises: 0
 questions:
 - "Key question (FIXME)"
