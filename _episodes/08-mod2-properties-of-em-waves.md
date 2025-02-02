@@ -1,6 +1,6 @@
 ---
 title: "Properties of Electromagnetic Waves"
-teaching: 0
+teaching: 150
 exercises: 0
 questions:
 - "Key question (FIXME)"
