@@ -1,5 +1,5 @@
 ---
-title: "Course Outline"
+title: "Fundamentals of Spectrum Allocation"
 teaching: 0
 exercises: 0
 questions:
