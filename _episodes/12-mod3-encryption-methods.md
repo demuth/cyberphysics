@@ -1,6 +1,6 @@
 ---
 title: "Encryption methods for securing wireless transmission"
-teaching: 0
+teaching: 100
 exercises: 0
 questions:
 - "Key question (FIXME)"
