@@ -1,6 +1,6 @@
 ---
 title: "Electromagnetic interference (EMI) and its Impact on Security"
-teaching: 0
+teaching: 50
 exercises: 0
 questions:
 - "Key question (FIXME)"
