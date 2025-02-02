@@ -1,6 +1,6 @@
 ---
 title: "Software-Defined Radio for Signal Interception"
-teaching: 0
+teaching: 50
 exercises: 0
 questions:
 - "Key question (FIXME)"
