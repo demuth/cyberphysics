@@ -1,6 +1,6 @@
 ---
 title: "Basics of Wave Physics"
-teaching: 0
+teaching: 100
 exercises: 0
 questions:
 - "Key question (FIXME)"
