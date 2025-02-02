@@ -1,6 +1,6 @@
 ---
 title: "Signal Jamming and Anti-hamming Techniques"
-teaching: 0
+teaching: 50
 exercises: 0
 questions:
 - "Key question (FIXME)"
