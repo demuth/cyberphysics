@@ -1,6 +1,6 @@
 ---
 title: "Case Studies: Wireless Hacking Incidents and Countermeasures"
-teaching: 0
+teaching: 100
 exercises: 0
 questions:
 - "Key question (FIXME)"
