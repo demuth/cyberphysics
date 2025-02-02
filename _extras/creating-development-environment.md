@@ -40,6 +40,6 @@ $ pwd
 ~~~
 {: .language-bash}
 
-Installing GitHub Desktop follows.
+(Follow this link to Install GitHub Desktop)[https://github.com/apps/desktop]
 
 {% include links.md %}
