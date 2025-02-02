@@ -21,9 +21,12 @@ Electromagnetic waves are fundamental to wireless communication and cybersecurit
 - **Definition**: The number of wave cycles that pass a given point per second.  
 - **Unit**: Hertz (Hz), where **1 Hz = 1 cycle per second**.  
 - **Formula**:  
-  
-  $f = \frac{c}{\lambda}$  
-  where:  
+
+```math
+  f = \frac{c}{\lambda} 
+```
+
+where:  
   - $f$ = frequency (Hz)  
   - $c$ = speed of light in a vacuum (approximately $3.0 \times 10^8 ~m/s$)  
   - $\lambda$ = wavelength (meters)  
@@ -37,9 +40,10 @@ Electromagnetic waves are fundamental to wireless communication and cybersecurit
 - **Definition**: The physical distance between successive wave peaks.  
 - **Unit**: Meters (m).  
 - **Formula**:  
-  
-  $\lambda = \frac{c}{f} $
-  
+
+```math
+  \lambda = \frac{c}{f}
+```
 - **Relationship**: Inversely proportional to frequency—**higher frequency = shorter wavelength** and vice versa.  
 
 ### **Relevance to Cybersecurity**
@@ -51,7 +55,9 @@ Electromagnetic waves are fundamental to wireless communication and cybersecurit
 - **Unit**: Joules ($J$).  
 - **Formula**:
 
-  $E=hf$  
+```math
+  E=hf
+```  
   where:  
   - $E$ = energy (Joules)  
   - $h$ = Planck’s constant ($6.626 \times 10^{-34}~Js$ )  
