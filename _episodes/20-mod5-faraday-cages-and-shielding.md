@@ -1,6 +1,6 @@
 ---
 title: "Faraday cages and shielding technologies"
-teaching: 0
+teaching: 100
 exercises: 0
 questions:
 - "Key question (FIXME)"
