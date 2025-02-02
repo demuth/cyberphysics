@@ -1,6 +1,6 @@
 ---
 title: "Vulnerabilities in Wireless Networks"
-teaching: 0
+teaching: 50
 exercises: 0
 questions:
 - "Key question (FIXME)"
