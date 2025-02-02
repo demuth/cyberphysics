@@ -40,15 +40,23 @@ $ pwd
 ~~~
 {: .language-bash}
 
-- (Follow this link to Install GitHub Desktop)[https://github.com/apps/desktop]
-- (Follow this link to inspect the GitHub site for this project)[https://github.com/demuth/cyberphysics] and select the green Code button and snag (copy to your buffer) from the URL https://github.com/DUNE/computing-basics.git which will be used to clone locally the repo using GitHub Desktop.
+- [Follow this link to Install GitHub Desktop](https://github.com/apps/desktop)
+- [Follow this link to inspect the GitHub site for this project](https://github.com/demuth/cyberphysics) and select the green Code button and snag (copy to your buffer) from the URL https://github.com/DUNE/computing-basics.git which will be used to clone locally the repo using GitHub Desktop.
 - Launch GitHub Desktop, select File and Clone Repository... from the menu bar.
   - in the Clone a Repository popup window, select the URL tab, and paste from your buffer https://github.com/DUNE/computing-basics.git
   - select a Local Path, for example, type /Users/demuth/Work or use the Choose button in the GitHub Desktop interface.
   - select the blue Clone button to initiate the cloning.
 - Return to your terminal window and inspect the directory that is created. You might also open a Finder window to inspect the new files.
 - Primary to contributing authors are the two subdirectories, `_episodes`, possibly `_extras', and `figs`.
-- While commandline git commands are possible for your local repository, GitHub Desktop frees you from the burdens of learning new commands.
+- While command line git commands are possible for your local repository, GitHub Desktop frees you from the burdens of learning new commands.
+
+The default format for the lesson files is markdown, which boasts of a straightforward, even simplified construct: [Markdown Reference Sheet](https://www.markdownguide.org/cheat-sheet/). The idea is to not be encumbered by the formatting, but instead focus on the content.
+
+Select and install an editor that you enjoy: emacs, vim, vi, Xcode, ....  Installing code highlighting will make for easier editing.
+
+Now the hard part, installing the Ruby/Jekyll environment. Once installed, you launch a server from your local github repository, that listens for an file updates and auto-renders the markdown into HTML for inspection via a web browser. More on this step soon.
+
+
 
 
 
