@@ -1,6 +1,6 @@
 ---
 title: "Radiofrequency Hacking Techniques"
-teaching: 0
+teaching: 100
 exercises: 0
 questions:
 - "Key question (FIXME)"
