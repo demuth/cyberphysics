@@ -1,6 +1,6 @@
 ---
 title: "Side Channel Attacks using Electromagnetic Emissions"
-teaching: 0
+teaching: 50
 exercises: 0
 questions:
 - "Key question (FIXME)"
