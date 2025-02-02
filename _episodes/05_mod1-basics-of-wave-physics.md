@@ -10,8 +10,9 @@ keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
 
-
 <!--- how to render latex in markdown? https://stackoverflow.com/questions/10987992/using-mathjax-with-jekyll --->
+
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
 ### **Basics of Wave Physics: Frequency, Wavelength, and Energy**  
 
