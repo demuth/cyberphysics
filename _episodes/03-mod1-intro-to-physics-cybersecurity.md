@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Physics Cybersecurity"
-teaching: 150
+teaching: 100
 exercises: 0
 questions:
 - "Key question (FIXME)"
