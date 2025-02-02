@@ -1,6 +1,6 @@
 ---
 title: "Radio Wave Propogation and Penetration"
-teaching: 0
+teaching: 150
 exercises: 0
 questions:
 - "Key question (FIXME)"
