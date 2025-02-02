@@ -40,6 +40,17 @@ $ pwd
 ~~~
 {: .language-bash}
 
-(Follow this link to Install GitHub Desktop)[https://github.com/apps/desktop]
+- (Follow this link to Install GitHub Desktop)[https://github.com/apps/desktop]
+- (Follow this link to inspect the GitHub site for this project)[https://github.com/demuth/cyberphysics] and select the green Code button and snag (copy to your buffer) from the URL https://github.com/DUNE/computing-basics.git which will be used to clone locally the repo using GitHub Desktop.
+- Launch GitHub Desktop, select File and Clone Repository... from the menu bar.
+  - in the Clone a Repository popup window, select the URL tab, and paste from your buffer https://github.com/DUNE/computing-basics.git
+  - select a Local Path, for example, type /Users/demuth/Work or use the Choose button in the GitHub Desktop interface.
+  - select the blue Clone button to initiate the cloning.
+- Return to your terminal window and inspect the directory that is created. You might also open a Finder window to inspect the new files.
+- Primary to contributing authors are the two subdirectories, `_episodes`, possibly `_extras', and `figs`.
+- While commandline git commands are possible for your local repository, GitHub Desktop frees you from the burdens of learning new commands.
+
+
+
 
 {% include links.md %}
