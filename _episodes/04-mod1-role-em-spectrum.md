@@ -1,6 +1,6 @@
 ---
 title: "Role of the E/M Spectrum in Communications"
-teaching: 0
+teaching: 100
 exercises: 0
 questions:
 - "Key question (FIXME)"
