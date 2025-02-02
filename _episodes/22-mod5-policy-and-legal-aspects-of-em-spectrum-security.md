@@ -1,6 +1,6 @@
 ---
 title: "Policy and Legal Aspects of Electromagnetic Spectrum Security"
-teaching: 0
+teaching: 100
 exercises: 0
 questions:
 - "Key question (FIXME)"
