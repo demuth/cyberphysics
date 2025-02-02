@@ -81,4 +81,6 @@ By the end of this course, students will:
 
 [Public Link to ChatGPT generation of this material v20250201](https://chatgpt.com/share/679e6ed1-8a2c-800c-a831-2d8cdba61add)
 
+[Who is Open AI?](https://en.wikipedia.org/wiki/OpenAI)
+
 {% include links.md %}
