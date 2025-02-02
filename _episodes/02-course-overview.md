@@ -79,6 +79,6 @@ By the end of this course, students will:
 4. Conduct hands-on experiments with RF hacking and defense techniques.  
 5. Assess real-world cybersecurity threats related to the electromagnetic spectrum.  
 
-Would you like additional details or adjustments to the outline?
+[Public Link to ChatGPT generation of this material v20250201](https://chatgpt.com/share/679e6ed1-8a2c-800c-a831-2d8cdba61add)
 
 {% include links.md %}
